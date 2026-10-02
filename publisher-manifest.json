@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "13b900c1e7a616cd8e1812d7",
+  "owner": "mqhqfqqxf",
+  "repo": "page-d7ae38611551fd75e1cfa573",
+  "title": "新世界",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d7ae38611551fd75e1cfa573",
+      "a": "新世界",
+      "b": "",
+      "entity": "新世界",
+      "brand": "新世界",
+      "separator": "",
+      "path": "index.html",
+      "hash": "95988bf47d4e5c296b1c94939883649347460981782031576264761b5b0f3d64",
+      "content": {
+        "keyword1": "新世界",
+        "keyword2": "",
+        "primary_entity": "新世界",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "新世界是专注稳定高速的机场与VPN服务，提供多套餐订阅、全平台客户端下载与网络加速，助您解锁流媒体、游戏加速与跨境办公，欢迎访问官网获取官方下载与订阅。",
+          "AI_DESCRIPTION": "新世界是专注稳定高速的机场与VPN服务，提供多套餐订阅、全平台客户端下载与网络加速，助您解锁流媒体、游戏加速与跨境办公，欢迎访问官网获取官方下载与订阅。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;background:#F6F3EC;color:#1C1C1C;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;font-size:16px;line-height:1.65}a{color:#1E4D3A}a:hover{color:#0F2E22}.top{background:#1E4D3A;color:#F6F3EC;padding:14px 16px}.top .brand{font-weight:700;font-size:1.15rem}.nav{display:flex;flex-wrap:wrap;gap:10px 16px;margin-top:8px}.nav a{color:#F6F3EC;text-decoration:none;font-size:0.95rem}.wrap{max-width:920px;margin:0 auto;padding:16px}h1{font-size:1.7rem;line-height:1.3;color:#143328;margin:8px 0 16px}h2{font-size:1.35rem;color:#1E4D3A;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #C5D5C8}h3{font-size:1.08rem;color:#244B3A;margin:16px 0 8px}p,li{margin:0 0 10px}.lead{font-size:1.05rem}.cards{display:grid;grid-template-columns:1fr;gap:12px;margin:16px 0}@media(min-width:640px){.cards{grid-template-columns:repeat(3,1fr)}}.card{background:#FFFEF9;border:1px solid #C9D6C6;border-radius:8px;padding:14px;display:flex;flex-direction:column}.card.feat{border:2px solid #1E4D3A;background:#EEF4EF}.card h3{margin-top:0}.price{font-size:1.25rem;font-weight:700;color:#1E4D3A}.annual{font-size:0.9rem;color:#3D5C4A}.card ul{margin:8px 0 0;padding-left:18px;flex:1}.badge{display:inline-block;background:#1E4D3A;color:#fff;font-size:0.75rem;padding:2px 8px;border-radius:4px;margin-bottom:6px}.steps{padding-left:20px}.scene{margin:0;padding-left:18px}details{background:#FFFEF9;border:1px solid #D0DCCE;border-radius:6px;padding:10px 12px;margin:8px 0}summary{font-weight:600;color:#1E4D3A}details p{margin:8px 0 0}.aside{background:#E8EFE6;border-radius:8px;padding:14px;margin:24px 0}footer{background:#1E4D3A;color:#E8EFE6;padding:20px 16px;margin-top:32px;font-size:0.92rem}footer a{color:#E8EFE6}.flinks{display:flex;flex-wrap:wrap;gap:8px 14px;margin:8px 0}.note{font-size:0.9rem;color:#444}</style><div class=\"top\"><div class=\"wrap\"><div class=\"brand\">新世界 · 官方网站</div><nav class=\"nav\" aria-label=\"页面导航\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#clients\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a></nav></div></div><main class=\"wrap\"><h1>新世界官方网站：机场订阅、VPN 梯子与客户端下载</h1><p class=\"lead\">新世界提供清晰透明的机场订阅服务，把网络加速、流媒体解锁和游戏线路整合到同一套节点体系中。您可以按流量与设备数量选择套餐，在主流客户端中导入订阅即可使用。</p><section id=\"intro\"><h2>品牌简介</h2><p>新世界定位为面向个人与小团队的网络加速服务。我们维护多区域节点，覆盖日常网页访问、视频平台与对延迟敏感的游戏场景。套餐按月或按年计费，年付可降低综合成本。服务侧重点在于订阅稳定、客户端兼容以及可预期的工单响应。</p><p>无论您需要一条可靠的梯子用于跨境办公，还是希望在手机与电脑间共享订阅，新世界都提供对应档位。旗舰版面向重度流媒体与游戏用户，团队版则适合多设备同时在线的工作室。请通过官网完成订阅并获取官方下载指引，避免非官方渠道。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为当前公开档位。流量为每月额度，周期结束按规则重置。建议先评估同时在线设备数与是否需要 IPLC 游戏线路，再对照客户端选择导入方式。</p><div class=\"cards\"><div class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"card feat\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div><p class=\"note\">购买与续费请通过新世界官方渠道完成。本页用于说明档位差异，便于您对照客户端与使用场景做选择。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>旗舰版强调全节点原生解锁，适合需要稳定播放海外剧集与体育直播的用户。基础版覆盖常见平台的基础解锁，满足轻度观看。</p><h3>游戏与低延迟</h3><p>需要 IPLC 专线优化时请选择旗舰版。团队协作或多人语音时可配合游戏加速节点降低抖动。</p><h3>办公与多设备</h3><p>远程会议、代码仓库与跨境电商后台适合长期在线。团队版支持更多终端同时连接，并提供定制路由选项。</p><ul class=\"scene\"><li>手机与电脑同时使用同一订阅</li><li>出差时切换区域节点访问协作工具</li><li>学术检索与公开资料下载</li></ul></section><section id=\"clients\"><h2>客户端选择与官方下载指引</h2><p>新世界采用通用机场订阅格式，可在主流加速器客户端中导入。请优先从各客户端官方网站或应用商店获取安装包，避免来路不明的修改版。导入后选择规则模式或全局模式，再挑选延迟较低的节点。这是使用新世界 VPN 与梯子服务最关键的一步。</p><h3>桌面端</h3><p>Windows 与 macOS 可使用 Clash 系客户端、v2rayN 或同类图形界面工具。Linux 用户可选择命令行或带托盘的兼容内核。下载完成后，将订阅 URL 粘贴到配置或订阅栏并更新节点。</p><h3>移动端</h3><p>iOS 常用 Shadowrocket、Stash、Quantumult X；Android 可使用 Clash Meta 系列、NekoBox 等。请通过官方商店或开发者站点安装。同一订阅可在多台设备使用，但须遵守套餐同时在线上限。</p><h3>导入要点</h3><p>复制新世界用户中心提供的订阅链接，在客户端选择从 URL 更新。若解析失败，检查是否完整复制、系统时间是否准确，或更换兼容内核后再试。节点名称通常标注地区与线路类型，游戏场景优先选择带 IPLC 标识的条目。</p><p><a href=\"#guide\">查看完整操作说明</a> · <a href=\"#faq\">客户端常见问题</a></p></section><section id=\"guide\"><h2>操作说明</h2><ol class=\"steps\"><li>对照本页套餐，确认流量、设备数与是否需要游戏专线，选择基础版、旗舰版或团队版。</li><li>通过新世界官网完成订阅，进入用户中心复制订阅地址。请妥善保存，勿公开分享。</li><li>按「客户端选择」安装对应系统软件。首次启动允许通知与网络权限。</li><li>在客户端添加订阅并更新节点列表，建议开启自动更新以免规则过期。</li><li>根据场景选择节点：浏览与办公可选普通线路，4K 与游戏优先旗舰版中的专线节点。</li><li>连接后访问目标站点验证。若异常，切换节点或查阅 FAQ 排错步骤。</li></ol><p>年付用户可一次性获得更长有效期。流量耗尽后连接会受限，可升级套餐或等待下个计费周期。客户端本身请走其官方下载，新世界提供的是机场订阅与节点服务。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>新世界机场和普通 VPN 有什么区别？</summary><p>新世界以机场订阅方式提供节点与流量额度，您可在自选客户端中灵活分流。相比单一封装的 VPN 应用，订阅模式便于多设备同步、自定义规则，也方便按月或按年调整档位。两者都用于网络加速与访问优化，交付形态不同。</p></details><details><summary>如何下载客户端并导入订阅？</summary><p>请从 Clash、Shadowrocket、v2rayN 等软件的官方渠道下载安装包。打开新世界用户中心复制订阅链接，在客户端的订阅或配置中粘贴 URL 并更新。成功后即可看到节点列表。不要使用来源不明的破解客户端，以免订阅泄露。</p></details><details><summary>三个套餐该怎么选？</summary><p>轻度使用、设备不超过三台选基础版。需要原生流媒体、游戏 IPLC 以及优先工单选旗舰版。工作室或多成员、需要高带宽与定制路由选团队版。年付价格已在各卡片标明，适合长期把新世界当作主力加速器的用户。</p></details><details><summary>流量用完或连接失败怎么办？</summary><p>流量耗尽后请升级套餐或等待重置。连接失败时先更新订阅、更换节点，再检查系统时间与本地防火墙。若仍失败，通过工单提交客户端名称、错误说明与使用地区，旗舰版与团队版享有更高优先级。</p></details><details><summary>是否支持同时多设备以及流媒体解锁？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。基础版提供基础流媒体解锁，旗舰与团队强调全节点原生解锁。实际效果与目标平台策略有关，遇到个别地区失败时可切换节点重试。</p></details><details><summary>如何确认官网身份？客户端下载是否另收费？</summary><p>请认准新世界官网与用户中心入口，不要通过非官方群组支付。客户端由第三方开源或商业软件提供，通常免费或按其官方定价购买。新世界收取的是机场订阅费用，不捆绑强制客户端，官方下载指引见本页客户端章节。</p></details></section><aside class=\"aside\" id=\"ads\"><h2>广告与合作</h2><p>新世界接受与网络工具、云服务及内容平台的品牌合作。广告位仅展示相关、克制的信息，不投放误导性下载。意向合作请通过用户中心工单注明商务合作。</p></aside><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>新世界官方网站 · 机场订阅与客户端下载说明</p><p>网站地图：<a href=\"#\">sitemap.xml</a> · <a href=\"#intro\">简介</a> · <a href=\"#plans\">套餐</a> · <a href=\"#clients\">客户端</a> · <a href=\"#faq\">FAQ</a></p><h3>友情链接</h3><div class=\"flinks\"><a href=\"#\">Clash 使用说明</a><a href=\"#\">订阅导入教程</a><a href=\"#\">节点延迟测试建议</a><a href=\"#\">网络加速常见名词</a></div><p>本页介绍新世界套餐、使用场景与客户端选择，便于您在官网完成订阅前做好准备。请遵守当地法律法规合理使用网络加速服务。</p></div></footer>",
+          "hash": "cd31539b152e95e58c8e84234384590d58a982957b1d19f257e40f4ead814606",
+          "seo": {
+            "title": "新世界官网 - 机场订阅与VPN梯子网络加速器 | 客户端官方下载",
+            "keywords": "新世界,新世界机场,新世界VPN,新世界梯子,网络加速,加速器,机场订阅,客户端下载,官网下载,Clash订阅,IPLC加速",
+            "description": "新世界是专注稳定高速的机场与VPN服务，提供多套餐订阅、全平台客户端下载与网络加速，助您解锁流媒体、游戏加速与跨境办公，欢迎访问官网获取官方下载与订阅。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "24jiuyuan.cn",
+    "host": "p-5669d9383b.24jiuyuan.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "24jiuyuan.cn",
+      "url": "https://24jiuyuan.cn/",
+      "label": "GOOGO",
+      "apex": "24jiuyuan.cn",
+      "kind": null,
+      "identity": "mfvxby/page-242b4978dffe65a679cf6596"
+    },
+    {
+      "host": "snbww.cn",
+      "url": "https://snbww.cn/",
+      "label": "新世界",
+      "apex": "snbww.cn",
+      "kind": null,
+      "identity": "jqjjrkyq/page-7914be9d0d23fef0ccb1e3c2"
+    },
+    {
+      "host": "wlaiz.cn",
+      "url": "https://wlaiz.cn/",
+      "label": "新世界",
+      "apex": "wlaiz.cn",
+      "kind": null,
+      "identity": "uhqyqq1/page-e64f7dee54ac6abcddf48f5a"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "935265b3f5bc41aca94bd55cb89d9c12ea11e033f36bcdbbc684534710711e8f",
+    "sitemap.xml": "eb8ef9b90e2fdaefe78afbe57ca356ccd33e45909e19998b4f1b8b5a26f17811",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f1e013d4e82b8db01673ed8a1a466aa8e9037ee49d61bbf2f1d74cffc6d5c336",
+    "robots.txt": "d001905da6129f01702d4934f2e68675241b5627e4ebb41bab75067cbde40702",
+    "c6b1c8391980892516e7b7e5f72f5dff.txt": "335e4d0a9c953a5796e224e8dd149b2dd328c26506b84d49e67729825c511635"
+  },
+  "revision": "f273f5c85ba0aa63cf049b5490adbc210c5ef46872001faf2a358fb88bc47738"
+}
